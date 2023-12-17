@@ -3,9 +3,10 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-WelCome to Lovely professional University
+- <br>
+- WelCome to Lovely professional University
 <br>
-I'm Tikesh Thakur
+- I'm Tikesh Thakur
 <!---
 tikesh29/tikesh29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
